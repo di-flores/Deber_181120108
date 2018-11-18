@@ -5,10 +5,6 @@
  */
 package ec.edu.ister.modelo;
 
-/**
- *
- * @author BRENDA TAYUPANTA
- */
 public class Punto {
 
     private int x;
